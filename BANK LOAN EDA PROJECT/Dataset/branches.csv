@@ -1,0 +1,16 @@
+branch_id,branch_name,city,state,region,manager_name
+BR001,Mumbai Main Branch,Mumbai,Maharashtra,West,Rahul Verma
+BR002,Pune Main Branch,Pune,Maharashtra,West,Rohit Gupta
+BR003,Nashik Main Branch,Nashik,Maharashtra,West,Priya Reddy
+BR004,Delhi Main Branch,Delhi,Delhi,North,Suresh Verma
+BR005,Gurgaon Main Branch,Gurgaon,Haryana,North,Rahul Rao
+BR006,Chandigarh Main Branch,Chandigarh,Punjab,North,Anjali Kulkarni
+BR007,Bengaluru Main Branch,Bengaluru,Karnataka,South,Amit Sharma
+BR008,Chennai Main Branch,Chennai,Tamil Nadu,South,Rohit Verma
+BR009,Hyderabad Main Branch,Hyderabad,Telangana,South,Priya Reddy
+BR010,Kochi Main Branch,Kochi,Kerala,South,Sanjay Kulkarni
+BR011,Kolkata Main Branch,Kolkata,West Bengal,East,Rohit Rao
+BR012,Patna Main Branch,Patna,Bihar,East,Priya Rao
+BR013,Bhubaneswar Main Branch,Bhubaneswar,Odisha,East,Amit Reddy
+BR014,Ahmedabad Main Branch,Ahmedabad,Gujarat,West,Kavita Kulkarni
+BR015,Jaipur Main Branch,Jaipur,Rajasthan,North,Vikram Sharma

@@ -1,0 +1,604 @@
+customer_id,first_name,last_name,dob,gender,city,state,phone,annual_income,employment_type,cibil_score,education,marital_status
+CUST00001,Ayaan,Sharma,1977-05-04,Male,Patna,Bihar,9131994523,62840.0,Salaried,667.0,Graduate,Married
+CUST00002,Sunita,Nair,1994-02-25,Female,Patna,Bihar,9914763202,67767.0,Business Owner,817.0,High School,Married
+CUST00003,Riya,Iyer,1999-04-02,Male,Delhi,Delhi,9883543540,43604.0,Retired,658.0,High School,Married
+CUST00004,Sai,Pillai,2002-03-16,Female,Gurgaon,Haryana,9810026086,107969.0,Salaried,749.0,Post Graduate,Married
+CUST00005,Kiara,Patel,1977-06-21,Male,Bengaluru,Karnataka,9853573823,38764.0,Self-Employed,728.0,High School,Single
+CUST00006,Ramesh,Joshi,1985-09-26,Female,Nashik,Maharashtra,9345938494,38882.0,Retired,638.0,Post Graduate,Married
+CUST00007,Riya,Gupta,1990-06-11,Male,Delhi,Delhi,9592688426,55325.0,Self-Employed,507.0,Not Graduate,Divorced
+CUST00008,Sunita,Pillai,1998-07-06,Male,Gurgaon,Haryana,9647099690,20692.0,Salaried,629.0,Post Graduate,Married
+CUST00009,Ishaan,Reddy,1995-07-12,Male,Bhubaneswar,Odisha,9112327652,29542.0,Business Owner,708.0,Not Graduate,Divorced
+CUST00010,Karan,Patel,1984-07-03,Female,Gurgaon,Haryana,9645119047,,Self-Employed,552.0,High School,Married
+CUST00011,Ishaan,Singh,1972-03-31,Female,Bhubaneswar,Odisha,9120912992,102009.0,Business Owner,659.0,Graduate,Single
+CUST00012,Myra,Verma,2004-05-21,Female,Delhi,Delhi,9922308461,50704.0,Self-Employed,551.0,Graduate,Divorced
+CUST00013,Anika,Desai,1992-03-18,Female,Ahmedabad,Gujarat,9821218382,37339.0,Retired,689.0,Post Graduate,Single
+CUST00014,Ayaan,Joshi,1967-11-16,Male,Delhi,Delhi,9860038427,27570.0,Salaried,713.0,Post Graduate,
+CUST00015,Aditya,Kulkarni,1988-01-24,Female,Pune,Maharashtra,9718702544,36303.0,Retired,653.0,Post Graduate,Divorced
+CUST00016,Saanvi,Patel,1994-07-24,Female,Pune,Maharashtra,9205675387,36284.0,Salaried,846.0,Graduate,Divorced
+CUST00017,Myra,Nair,1989-01-21,Male,Delhi,Delhi,9575808013,48691.0,Salaried,584.0,Post Graduate,Married
+CUST00018,Ramesh,Sharma,1998-10-21,Female,Pune,Maharashtra,9276777762,73959.0,Business Owner,570.0,Post Graduate,Married
+CUST00019,Isha,Rao,1996-03-31,Male,Bengaluru,Karnataka,9333754555,54416.0,Business Owner,503.0,Not Graduate,Single
+CUST00020,Vihaan,Verma,1986-05-22,Male,Kochi,Kerala,9738914080,25232.0,Retired,697.0,Graduate,Married
+CUST00021,Ayaan,Menon,1990-12-21,Male,Delhi,Delhi,9819112790,70914.0,Business Owner,695.0,High School,Married
+CUST00022,Meera,Iyer,1993-12-15,Male,Kolkata,West Bengal,9766964667,46266.0,Salaried,652.0,Graduate,
+CUST00023,Ramesh,Nair,1976-11-24,Female,Hyderabad,Telangana,9570497096,23405.0,Salaried,615.0,Post Graduate,Married
+CUST00024,Sunita,Rao,1994-10-04,Male,Jaipur,Rajasthan,9392431670,38936.0,Business Owner,775.0,Graduate,Married
+CUST00025,Aadhya,Mehta,1986-12-01,Male,Hyderabad,Telangana,9103807155,58209.0,Business Owner,521.0,Not Graduate,Married
+CUST00026,Ananya,Malhotra,1996-08-27,Female,Hyderabad,Telangana,9725464884,,Self-Employed,645.0,Post Graduate,Single
+CUST00027,Aditya,Rao,2000-09-17,Female,Chandigarh,Punjab,9937643439,34945.0,Self-Employed,735.0,Post Graduate,Single
+CUST00028,Myra,Reddy,2001-05-15,Male,Bhubaneswar,Odisha,9961393416,82084.0,Business Owner,763.0,High School,Single
+CUST00029,Ananya,Patel,15/02/2004,Male,Bengaluru,Karnataka,9339362341,32221.0,Retired,652.0,Not Graduate,Married
+CUST00030,Karan,Mehta,1968-02-12,Male,Ahmedabad,Gujarat,9455569462,57851.0,Business Owner,767.0,Not Graduate,Divorced
+CUST00031,Diya,Menon,1966-09-19,Male,Gurgaon,Haryana,9224173718,38577.0,Business Owner,663.0,High School,Divorced
+CUST00032,Aditya,Chopra,1988-04-28,Female,Mumbai,Maharashtra,9813219781,28193.0,Salaried,572.0,Post Graduate,Married
+CUST00033,Ira,Desai,1994-12-01,Male,Gurgaon,Haryana,9507104143,73589.0,Business Owner,802.0,Post Graduate,Divorced
+CUST00034,Meera,Pillai,1965-01-07,Female,Ahmedabad,Gujarat,9825449223,47287.0,Self-Employed,770.0,High School,Single
+CUST00035,Sai,Rao,1994-10-12,Male,Hyderabad,Telangana,9966040317,58736.0,Salaried,621.0,Post Graduate,Married
+CUST00036,Myra,Bose,2003-02-13,Male,Kochi,Kerala,9630833445,58729.0,Salaried,818.0,Post Graduate,Single
+CUST00037,Reyansh,Chopra,1972-11-21,Female,Delhi,Delhi,9590122159,48150.0,Business Owner,820.0,Post Graduate,Married
+CUST00038,Shreya,Trivedi,1997-04-07,Male,Ahmedabad,Gujarat,9609677794,13228.0,Business Owner,753.0,Not Graduate,Divorced
+CUST00039,Deepak,Bose,1975-09-25,Male,Kolkata,West Bengal,9186519602,51201.0,Retired,653.0,High School,Divorced
+CUST00040,Ishaan,Nair,1983-08-12,Male,Pune,Maharashtra,9926561919,51322.0,Retired,501.0,Post Graduate,Single
+CUST00041,Rajesh,Sharma,1978-05-25,Male,Chandigarh,Punjab,9686405096,43921.0,Retired,712.0,Not Graduate,Divorced
+CUST00042,Kiara,Mehta,1986-10-14,Male,Bengaluru,Karnataka,9237039296,102636.0,Retired,633.0,Not Graduate,Single
+CUST00043,Lata,Menon,1966-03-21,Female,Kolkata,West Bengal,9451492250,32720.0,Business Owner,634.0,Post Graduate,Single
+CUST00044,Siddharth,Mehta,2002-04-27,Male,Bhubaneswar,Odisha,9340756713,77474.0,Salaried,709.0,Graduate,Single
+CUST00045,Myra,Nair,1965-11-30,Female,Ahmedabad,Gujarat,9599326438,37613.0,Self-Employed,726.0,Graduate,Married
+CUST00046,Kavya,Trivedi,1997-03-23,Female,Patna,Bihar,9718257024,51458.0,Retired,767.0,Graduate,Single
+CUST00047,Saanvi,Gupta,1995-12-25,Male,Kochi,Kerala,9964929067,34508.0,Business Owner,650.0,High School,Divorced
+CUST00048,Ramesh,Chopra,1981-08-16,Female,Kolkata,West Bengal,9213321496,40293.0,Retired,548.0,,Single
+CUST00049,Ishaan,Chopra,1997-12-01,Male,Nashik,Maharashtra,9736164778,56843.0,Salaried,703.0,Not Graduate,Divorced
+CUST00050,Riya,Malhotra,1998-08-31,Female,Delhi,Delhi,9295249057,49146.0,Business Owner,658.0,Graduate,Single
+CUST00051,Karan,Mehta,1991-09-29,Female,Jaipur,Rajasthan,9359154084,24156.0,Self-Employed,642.0,,Married
+CUST00052,Rajesh,Bose,2000-07-27,Female,Chennai,Tamil Nadu,9496232693,41301.0,Retired,607.0,Post Graduate,Divorced
+CUST00053,Sunita,Kulkarni,1996-07-12,Male,Chandigarh,Punjab,9675379544,45222.0,Self-Employed,716.0,Post Graduate,Divorced
+CUST00054,Aadhya,Bose,1997-07-03,Female,Gurgaon,Haryana,9344258191,125881.0,Salaried,695.0,Graduate,Single
+CUST00055,Ramesh,Iyer,1967-01-16,Female,Gurgaon,Haryana,9210152642,55757.0,Retired,673.0,Post Graduate,Single
+CUST00056,Rajesh,Malhotra,1973-04-09,Male,Chandigarh,Punjab,9628008852,18781.0,Self-Employed,677.0,Graduate,Single
+CUST00057,Ishaan,Menon,1968-10-27,Female,Gurgaon,Haryana,9583736219,50519.0,Retired,900.0,Post Graduate,Single
+CUST00058,Ira,Menon,1967-09-14,Male,Kochi,Kerala,9809129316,44525.0,Self-Employed,707.0,Post Graduate,Single
+CUST00059,Sunita,Gupta,1965-02-13,Female,Nashik,Maharashtra,9403566540,48177.0,Salaried,574.0,Graduate,Divorced
+CUST00060,Kiara,Mehta,2000-06-29,Female,Bhubaneswar,Odisha,9795392488,86804.0,Self-Employed,747.0,Not Graduate,Married
+CUST00061,Arjun,Verma,2000-07-22,Female,Nashik,Maharashtra,9839462365,72803.0,Business Owner,598.0,High School,Single
+CUST00062,Anil,Pillai,1984-08-21,Male,Chennai,Tamil Nadu,9198061499,98853.0,Business Owner,553.0,High School,Married
+CUST00063,Geeta,Verma,1998-12-04,Female,Bhubaneswar,Odisha,9568027936,65737.0,Salaried,877.0,High School,Divorced
+CUST00064,Rajesh,Singh,1979-12-14,Male,Bengaluru,Karnataka,9811443654,29873.0,Retired,629.0,Not Graduate,Single
+CUST00065,Sai,Kulkarni,1979-07-03,Male,Gurgaon,Haryana,9596043327,51525.0,Business Owner,634.0,Graduate,Divorced
+CUST00066,Tanya,Bose,1984-10-30,Male,Kolkata,West Bengal,9620455331,22576.0,Self-Employed,686.0,High School,Divorced
+CUST00067,Ira,Pillai,1989-10-10,Female,Mumbai,Maharashtra,9795472980,28820.0,Business Owner,722.0,Graduate,Married
+CUST00068,Anil,Mehta,2002-06-12,Male,Bengaluru,Karnataka,9645719501,30954.0,Salaried,819.0,Post Graduate,Divorced
+CUST00069,Riya,Chopra,2000-05-02,Male,Chandigarh,Punjab,9808605988,33135.0,Retired,651.0,High School,Divorced
+CUST00070,Ramesh,Bose,1979-11-30,Male,Chandigarh,Punjab,9356415500,73626.0,Retired,569.0,High School,Divorced
+CUST00071,Aditya,Kulkarni,1986-03-21,Female,Patna,Bihar,9235555899,54925.0,Salaried,797.0,Post Graduate,Married
+CUST00072,Shreya,Patel,1985-07-01,Female,Hyderabad,Telangana,9463527356,21944.0,Salaried,696.0,Post Graduate,Single
+CUST00073,Karan,Pillai,1979-03-17,Female,Bengaluru,Karnataka,9777703980,55823.0,Self-Employed,750.0,Graduate,Married
+CUST00074,Sai,Chopra,1999-02-09,Female,Pune,Maharashtra,9448294647,26410.0,Business Owner,561.0,High School,Married
+CUST00075,Varun,Chopra,1975-12-15,Male,Nashik,Maharashtra,9510753814,63638.0,Retired,706.0,Post Graduate,Divorced
+CUST00076,Lata,Iyer,1985-09-08,Female,Delhi,Delhi,9686905284,55561.0,Business Owner,711.0,Not Graduate,Divorced
+CUST00077,Lata,Rao,1984-01-13,Female,Kolkata,West Bengal,9354697684,34891.0,Business Owner,700.0,Not Graduate,Married
+CUST00078,Navya,Sharma,1994-07-12,Female,Ahmedabad,Gujarat,9633356861,,Self-Employed,615.0,Graduate,Divorced
+CUST00079,Kavya,Singh,1993-07-23,Female,Delhi,Delhi,9794002948,124602.0,Salaried,722.0,Post Graduate,Divorced
+CUST00080,Lata,Singh,1970-11-24,Female,Patna,Bihar,9492836532,27020.0,Self-Employed,739.0,Post Graduate,Divorced
+CUST00081,Anika,Bose,1978-03-29,Female,Bhubaneswar,Odisha,9826197069,30111.0,Business Owner,750.0,Graduate,Married
+CUST00082,Sai,Kumar,1976-11-11,Male,Mumbai,Maharashtra,9498866784,87491.0,Retired,606.0,High School,Divorced
+CUST00083,Vivaan,Trivedi,1990-03-09,Male,Jaipur,Rajasthan,9797115550,79355.0,Salaried,717.0,Not Graduate,Single
+CUST00084,Aditya,Rao,1970-03-18,Female,Chennai,Tamil Nadu,9847843987,73941.0,Self-Employed,850.0,Not Graduate,Divorced
+CUST00085,Pooja,Patel,1986-12-14,Male,Ahmedabad,Gujarat,9353524015,43360.0,Business Owner,612.0,High School,Single
+CUST00086,Ramesh,Singh,1982-11-11,Male,Mumbai,Maharashtra,9789024924,31421.0,Salaried,606.0,Not Graduate,Married
+CUST00087,Karan,Joshi,2000-04-20,Male,Nashik,Maharashtra,9452788129,47166.0,Business Owner,710.0,Post Graduate,Married
+CUST00088,Ishaan,Iyer,1976-03-30,Female,Hyderabad,Telangana,9948239575,56294.0,Salaried,754.0,Post Graduate,
+CUST00089,Diya,Mehta,1970-09-08,Female,Mumbai,Maharashtra,9651085057,49340.0,Self-Employed,810.0,Not Graduate,Single
+CUST00090,Tanya,Verma,2000-02-19,Male,Patna,Bihar,9531233244,42944.0,Retired,900.0,Graduate,Single
+CUST00091,Shreya,Gupta,1968-08-16,Female,Jaipur,Rajasthan,9669681065,67025.0,Salaried,602.0,High School,Divorced
+CUST00092,Ayaan,Pillai,2003-10-29,Female,Patna,Bihar,9546665485,28697.0,Retired,723.0,High School,Single
+CUST00093,Rohan,Mehta,1971-11-06,Male,Chandigarh,Punjab,9899496315,43838.0,Salaried,744.0,Graduate,Married
+CUST00094,Lata,Pillai,1979-10-15,Female,Hyderabad,Telangana,9155239803,62107.0,Business Owner,673.0,Not Graduate,Divorced
+CUST00095,Reyansh,Menon,1974-07-18,Male,Hyderabad,Telangana,9223357166,32099.0,Retired,543.0,High School,Single
+CUST00096,Sunita,Trivedi,1995-04-12,Female,Kochi,Kerala,9854517058,39212.0,Business Owner,757.0,High School,Single
+CUST00097,Aarav,Reddy,1971-06-06,Female,Ahmedabad,Gujarat,9330997172,54559.0,Business Owner,567.0,Graduate,Divorced
+CUST00098,Ananya,Singh,1997-05-15,Female,Gurgaon,Haryana,9153432064,53454.0,Retired,714.0,Graduate,Divorced
+CUST00099,Neha,Bose,1984-10-30,Female,Kochi,Kerala,9828230915,31510.0,Business Owner,693.0,High School,Single
+CUST00100,Aditya,Joshi,1991-11-20,Female,Bengaluru,Karnataka,9452318696,50468.0,Retired,577.0,Post Graduate,Single
+CUST00101,Diya,Iyer,1988-11-21,Female,Bengaluru,Karnataka,9145421708,58623.0,Salaried,730.0,High School,Divorced
+CUST00102,Rohan,Menon,1990-09-21,Female,Bengaluru,Karnataka,9284547422,84248.0,Business Owner,774.0,Not Graduate,Single
+CUST00103,Sai,Chopra,1969-10-01,Male,Ahmedabad,Gujarat,9464549612,24616.0,Salaried,595.0,Not Graduate,Divorced
+CUST00104,Anil,Patel,1987-11-17,Male,Hyderabad,Telangana,9374843786,63418.0,Salaried,726.0,Post Graduate,Married
+CUST00105,Diya,Bose,1998-11-04,Male,Chennai,Tamil Nadu,9439451556,63419.0,Retired,900.0,High School,Divorced
+CUST00106,Shreya,Rao,1977-04-28,Male,Bhubaneswar,Odisha,9495928981,65215.0,Salaried,782.0,Not Graduate,Married
+CUST00107,Tanya,Trivedi,1982-04-01,Female,Hyderabad,Telangana,9799905142,78984.0,Self-Employed,738.0,Graduate,Divorced
+CUST00108,Vihaan,Malhotra,2001-05-18,Male,Pune,Maharashtra,9570039364,41871.0,Business Owner,748.0,Post Graduate,Divorced
+CUST00109,Varun,Rao,1983-05-04,Female,Bengaluru,Karnataka,9699108439,33309.0,Business Owner,658.0,High School,Married
+CUST00110,Kavya,Iyer,1968-08-28,Female,Chandigarh,Punjab,9190966348,38457.0,Business Owner,687.0,Not Graduate,Divorced
+CUST00111,Krishna,Desai,1993-12-24,Female,Pune,Maharashtra,9466932310,155956.0,Self-Employed,511.0,High School,Married
+CUST00112,Kiara,Iyer,1968-06-18,Male,Nashik,Maharashtra,9240712839,69087.0,Self-Employed,534.0,Graduate,Divorced
+CUST00113,Diya,Trivedi,1972-06-05,Female,Bhubaneswar,Odisha,9405939035,38717.0,Self-Employed,778.0,Post Graduate,Divorced
+CUST00114,Ramesh,Joshi,2001-04-10,Female,Gurgaon,Haryana,9935504321,50621.0,Self-Employed,583.0,Not Graduate,Single
+CUST00115,Saanvi,Trivedi,2004-02-29,Male,Nashik,Maharashtra,9233871736,34281.0,Business Owner,741.0,Graduate,Divorced
+CUST00116,Shreya,Desai,2002-04-12,Female,Nashik,Maharashtra,9545492166,34023.0,Self-Employed,699.0,Not Graduate,Married
+CUST00117,Siddharth,Gupta,1975-01-27,Female,Chandigarh,Punjab,9141127742,50150.0,Self-Employed,621.0,High School,Married
+CUST00118,Rajesh,Malhotra,1965-03-28,Male,Kochi,Kerala,9753780028,143196.0,Business Owner,737.0,Post Graduate,Divorced
+CUST00119,Myra,Rao,1967-02-22,Male,Pune,Maharashtra,9740743666,17808.0,Self-Employed,696.0,Graduate,Single
+CUST00120,Navya,Chopra,1992-07-31,Male,Mumbai,Maharashtra,9172670118,35210.0,Retired,756.0,Graduate,Single
+CUST00121,Rajesh,Verma,1982-05-10,Female,Kolkata,West Bengal,9805560474,32982.0,Self-Employed,669.0,Graduate,Divorced
+CUST00122,Aditya,Singh,1980-03-09,Male,Hyderabad,Telangana,9778321204,63101.0,Salaried,757.0,Not Graduate,Single
+CUST00123,Isha,Verma,1974-01-16,Male,Gurgaon,Haryana,9608309128,26899.0,Business Owner,649.0,High School,Divorced
+CUST00124,Nikhil,Verma,1994-06-01,Female,Ahmedabad,Gujarat,9464037804,38658.0,Retired,621.0,Not Graduate,Single
+CUST00125,Varun,Desai,2000-12-09,Female,Gurgaon,Haryana,9210163669,118506.0,Business Owner,716.0,Post Graduate,Single
+CUST00126,Shreya,Trivedi,1984-02-12,Male,Patna,Bihar,9394801573,26096.0,Salaried,762.0,High School,Single
+CUST00127,Meera,Singh,2000-12-08,Female,Hyderabad,Telangana,9353398109,141644.0,Business Owner,772.0,Not Graduate,Married
+CUST00128,Siddharth,Menon,1992-02-22,Female,Mumbai,Maharashtra,9247848992,22932.0,Business Owner,636.0,Not Graduate,Divorced
+CUST00129,Riya,Joshi,1966-03-01,Female,Pune,Maharashtra,9855954847,92360.0,Retired,616.0,Graduate,Single
+CUST00130,Saanvi,Patel,2003-04-04,Male,Nashik,Maharashtra,9817087513,61200.0,Business Owner,749.0,Graduate,Single
+CUST00131,Ira,Reddy,1996-10-30,Female,Patna,Bihar,9950474042,30838.0,Salaried,674.0,Post Graduate,Married
+CUST00132,Varun,Pillai,1981-07-20,Female,Kochi,Kerala,9869801588,9695.0,Retired,587.0,Graduate,Single
+CUST00133,Geeta,Gupta,1979-03-23,Male,Nashik,Maharashtra,9786973497,43205.0,Retired,567.0,High School,Divorced
+CUST00134,Anil,Verma,1970-07-28,Female,Ahmedabad,Gujarat,9404994549,110880.0,Self-Employed,551.0,Post Graduate,Divorced
+CUST00135,Sunita,Mehta,1993-01-14,Female,Nashik,Maharashtra,9265564833,39339.0,Salaried,691.0,Post Graduate,Divorced
+CUST00136,Vivaan,Gupta,1993-10-10,Female,Mumbai,Maharashtra,9634764290,100774.0,Business Owner,550.0,Not Graduate,Married
+CUST00137,Rajesh,Joshi,2001-03-20,Female,Bhubaneswar,Odisha,9619960692,87691.0,Self-Employed,680.0,Graduate,Single
+CUST00138,Rohan,Kulkarni,2003-08-12,Male,Patna,Bihar,9231556899,30008.0,Self-Employed,721.0,Graduate,Single
+CUST00139,Reyansh,Verma,1982-03-26,Male,Gurgaon,Haryana,9874305759,54150.0,Retired,625.0,Post Graduate,Divorced
+CUST00140,Anil,Malhotra,2004-06-07,Male,Chennai,Tamil Nadu,9726360971,50761.0,Business Owner,645.0,Not Graduate,Married
+CUST00141,Sunil,Trivedi,2002-10-23,Female,Jaipur,Rajasthan,9881155839,51883.0,Business Owner,739.0,Graduate,Single
+CUST00142,Aditya,Kumar,1990-08-01,Male,Mumbai,Maharashtra,9400347789,108337.0,Self-Employed,568.0,Not Graduate,Divorced
+CUST00143,Reyansh,Kumar,2000-08-28,Male,Chandigarh,Punjab,9530986098,142417.0,Salaried,504.0,Post Graduate,Divorced
+CUST00144,Krishna,Kulkarni,1986-04-02,Female,Bhubaneswar,Odisha,9442019016,45438.0,Business Owner,732.0,Post Graduate,Divorced
+CUST00145,Anil,Desai,1986-12-22,Male,Hyderabad,Telangana,9547256709,56415.0,Retired,623.0,High School,Married
+CUST00146,Anika,Menon,1975-03-18,Male,Kochi,Kerala,9360056579,44176.0,Self-Employed,635.0,Not Graduate,Divorced
+CUST00147,Vivaan,Malhotra,1983-10-15,Male,Chandigarh,Punjab,9881042056,36509.0,Self-Employed,756.0,Not Graduate,Divorced
+CUST00148,Sunita,Kulkarni,1986-06-17,Female,Kolkata,West Bengal,9928917719,58601.0,Retired,617.0,High School,Divorced
+CUST00149,Saanvi,Joshi,1990-01-13,Female,Gurgaon,Haryana,9856975382,76864.0,Business Owner,707.0,High School,Divorced
+CUST00150,Sunita,Mehta,1970-06-20,Male,Gurgaon,Haryana,9411871167,73602.0,Business Owner,736.0,Not Graduate,Married
+CUST00151,Shreya,Mehta,1986-06-29,Male,Patna,Bihar,9895525625,32386.0,Salaried,629.0,High School,Divorced
+CUST00152,Deepak,Joshi,1975-06-12,Male,Kolkata,West Bengal,9105563528,71228.0,Retired,734.0,Graduate,Married
+CUST00153,Rajesh,Bose,1973-12-12,Male,Kolkata,West Bengal,9800400428,48511.0,Self-Employed,690.0,Graduate,Married
+CUST00154,Pooja,Reddy,1966-08-19,Male,Jaipur,Rajasthan,9420396197,92858.0,Business Owner,626.0,High School,Married
+CUST00155,Navya,Malhotra,1989-05-16,Female,Kolkata,West Bengal,9455069350,64443.0,Business Owner,661.0,Not Graduate,Married
+CUST00156,Diya,Sharma,1980-02-15,Female,Patna,Bihar,9535391971,43965.0,Salaried,778.0,Post Graduate,Divorced
+CUST00157,Meera,Patel,1971-04-23,Female,Nashik,Maharashtra,9909340042,74065.0,Business Owner,753.0,,Single
+CUST00158,Lata,Menon,1976-09-25,Female,Mumbai,Maharashtra,9535312769,94158.0,Salaried,681.0,Graduate,Married
+CUST00159,Navya,Singh,1974-11-28,Male,Kochi,Kerala,9605547798,68938.0,Self-Employed,652.0,High School,Divorced
+CUST00160,Kavya,Gupta,1985-01-15,Male,Hyderabad,Telangana,9642762599,57646.0,Self-Employed,668.0,Graduate,Divorced
+CUST00161,Rohan,Desai,1970-03-20,Female,Chennai,Tamil Nadu,9241674152,51456.0,Salaried,733.0,Not Graduate,Single
+CUST00162,Sunita,Malhotra,2001-03-13,Female,Kolkata,West Bengal,9178414859,32561.0,Salaried,868.0,Graduate,Divorced
+CUST00163,Ramesh,Verma,1968-02-05,Female,Jaipur,Rajasthan,9883068639,29643.0,Business Owner,570.0,Post Graduate,Divorced
+CUST00164,Siddharth,Malhotra,1981-12-07,Female,Ahmedabad,Gujarat,9227381397,87470.0,Self-Employed,751.0,Post Graduate,Single
+CUST00165,Kiara,Sharma,1966-01-08,Male,Bhubaneswar,Odisha,9365764028,66974.0,Business Owner,736.0,Not Graduate,Married
+CUST00166,Saanvi,Patel,2001-04-24,Female,Mumbai,Maharashtra,9208337018,48721.0,Salaried,599.0,Graduate,Married
+CUST00167,Myra,Verma,1984-09-09,Female,Bengaluru,Karnataka,9351429015,50914.0,Business Owner,619.0,Graduate,Single
+CUST00168,Myra,Rao,1971-06-06,Female,Jaipur,Rajasthan,9889427990,79822.0,Retired,666.0,High School,Divorced
+CUST00169,Vihaan,Singh,1995-02-12,Female,Kolkata,West Bengal,9297438548,32443.0,Self-Employed,651.0,Not Graduate,Single
+CUST00170,Kiara,Rao,1996-09-27,Male,Ahmedabad,Gujarat,9669074377,60262.0,Business Owner,629.0,Not Graduate,Divorced
+CUST00171,Aadhya,Kulkarni,1968-07-19,Male,Kolkata,West Bengal,9823349713,32496.0,Salaried,701.0,Post Graduate,Single
+CUST00172,Saanvi,Menon,1995-02-14,Male,Patna,Bihar,9327426863,55408.0,Retired,634.0,High School,Married
+CUST00173,Myra,Trivedi,1974-03-05,Female,Patna,Bihar,9796559239,38734.0,Business Owner,700.0,High School,Divorced
+CUST00174,Anil,Bose,1969-06-04,Male,Chennai,Tamil Nadu,9435997460,23764.0,Self-Employed,553.0,High School,Single
+CUST00175,Vivaan,Mehta,1991-03-14,Female,Hyderabad,Telangana,9994816400,34227.0,Business Owner,660.0,High School,Divorced
+CUST00176,Sunil,Bose,1972-07-19,Male,Chennai,Tamil Nadu,9789137659,57265.0,Salaried,812.0,Not Graduate,Divorced
+CUST00177,Vihaan,Sharma,1971-03-03,Female,Bengaluru,Karnataka,9500721199,75269.0,Retired,665.0,Graduate,Single
+CUST00178,Vivaan,Sharma,1989-09-30,Male,Hyderabad,Telangana,9823737375,48556.0,Salaried,589.0,High School,Divorced
+CUST00179,Reyansh,Desai,1975-10-24,Female,Nashik,Maharashtra,9500561082,48569.0,Self-Employed,654.0,High School,Married
+CUST00180,Kiara,Rao,2002-02-22,Male,Kolkata,West Bengal,9504982743,57604.0,Salaried,605.0,Graduate,Single
+CUST00181,Ananya,Gupta,2002-12-02,Female,Chennai,Tamil Nadu,9346709900,63555.0,Business Owner,817.0,Graduate,Married
+CUST00182,Aditya,Gupta,1977-07-30,Female,Kolkata,West Bengal,9730325223,46426.0,Salaried,716.0,High School,Married
+CUST00183,Ira,Reddy,1975-10-15,Male,Kochi,Kerala,9250270803,69221.0,Business Owner,643.0,High School,Divorced
+CUST00184,Vihaan,Patel,1975-06-01,Female,Bengaluru,Karnataka,9131810311,54832.0,Retired,681.0,Not Graduate,Single
+CUST00185,Kiara,Singh,1981-11-03,Male,Hyderabad,Telangana,9956905222,51474.0,Salaried,610.0,Graduate,Single
+CUST00186,Riya,Iyer,1996-12-04,Female,Bengaluru,Karnataka,9430999662,49625.0,Salaried,724.0,High School,Married
+CUST00187,Krishna,Gupta,1984-05-02,Female,Nashik,Maharashtra,9199926988,101272.0,Retired,766.0,Graduate,Divorced
+CUST00188,Aarav,Rao,1982-05-25,Male,Bengaluru,Karnataka,9835852444,143859.0,Business Owner,610.0,Post Graduate,Married
+CUST00189,Ira,Mehta,1971-07-19,Female,Chennai,Tamil Nadu,9370260533,75823.0,Self-Employed,696.0,Not Graduate,Single
+CUST00190,Isha,Patel,1978-09-01,Male,Nashik,Maharashtra,9572685761,146517.0,Business Owner,,Not Graduate,Single
+CUST00191,Rohan,Trivedi,1974-01-04,Male,Patna,Bihar,9779573843,32213.0,Business Owner,626.0,High School,Divorced
+CUST00192,Siddharth,Mehta,2000-04-02,Female,Ahmedabad,Gujarat,9128900946,16950.0,Self-Employed,632.0,Post Graduate,Divorced
+CUST00193,Shreya,Rao,1996-01-30,Male,Ahmedabad,Gujarat,9359868249,33537.0,Retired,693.0,Not Graduate,Single
+CUST00194,Siddharth,Gupta,1991-10-28,Male,Chennai,Tamil Nadu,9853374076,58155.0,Salaried,848.0,Not Graduate,Single
+CUST00195,Myra,Singh,1994-01-09,Male,Nashik,Maharashtra,9954946593,78842.0,Salaried,628.0,Not Graduate,Single
+CUST00196,Anika,Joshi,1998-07-03,Male,Hyderabad,Telangana,9929296154,31281.0,Business Owner,724.0,Not Graduate,Single
+CUST00197,Vivaan,Bose,1978-04-03,Female,Pune,Maharashtra,9588909690,25333.0,Business Owner,844.0,Post Graduate,Single
+CUST00198,Rajesh,Patel,1997-05-22,Male,Chennai,Tamil Nadu,9795752405,88408.0,Self-Employed,637.0,Graduate,Single
+CUST00199,Deepak,Reddy,1972-03-08,Female,Hyderabad,Telangana,9787708952,20815.0,Salaried,801.0,Not Graduate,Married
+CUST00200,Tanya,Nair,1991-07-26,Male,Chennai,Tamil Nadu,9719922596,,Business Owner,791.0,High School,Married
+CUST00201,Rohan,Nair,1970-02-11,Female,Chennai,Tamil Nadu,9521490916,22087.0,Business Owner,626.0,High School,Divorced
+CUST00202,Isha,Trivedi,2001-07-03,Male,Nashik,Maharashtra,9226552991,49149.0,Self-Employed,684.0,Graduate,Single
+CUST00203,Varun,Iyer,1982-06-05,Male,Hyderabad,Telangana,9844567935,39142.0,Self-Employed,736.0,Post Graduate,Divorced
+CUST00204,Sunil,Rao,1973-05-24,Female,Nashik,Maharashtra,9246603034,28744.0,Retired,667.0,High School,Single
+CUST00205,Pooja,Bose,1996-11-08,Male,Bengaluru,Karnataka,9413629152,52059.0,Business Owner,726.0,Graduate,Married
+CUST00206,Ananya,Malhotra,1998-04-23,Male,Kochi,Kerala,9983993176,69968.0,Retired,578.0,Graduate,Divorced
+CUST00207,Ramesh,Nair,1969-08-05,Male,Bengaluru,Karnataka,9976955647,22764.0,Self-Employed,794.0,Graduate,Single
+CUST00208,Aadhya,Menon,1980-09-23,Female,Patna,Bihar,9964835149,57881.0,Business Owner,612.0,Post Graduate,Married
+CUST00209,Kavya,Pillai,1979-07-09,Male,Nashik,Maharashtra,9163657733,106465.0,Self-Employed,690.0,Graduate,Single
+CUST00210,Myra,Iyer,1979-06-14,Female,Patna,Bihar,9388532840,88401.0,Retired,686.0,Not Graduate,Divorced
+CUST00211,Arjun,Gupta,17/02/1988,Male,Bengaluru,Karnataka,9724870012,137361.0,Retired,837.0,Not Graduate,Single
+CUST00212,Nikhil,Gupta,1988-12-22,Male,Bhubaneswar,Odisha,9462661837,43283.0,Retired,767.0,Not Graduate,Single
+CUST00213,Karan,Verma,1969-06-20,Male,Mumbai,Maharashtra,9559346003,67689.0,Business Owner,803.0,Post Graduate,Married
+CUST00214,Ananya,Mehta,1994-05-13,Male,Pune,Maharashtra,9428038048,30258.0,Retired,741.0,Post Graduate,Divorced
+CUST00215,Sai,Patel,1974-07-29,Male,Mumbai,Maharashtra,9846891707,83217.0,Retired,521.0,Not Graduate,
+CUST00216,Krishna,Bose,1975-04-10,Male,Pune,Maharashtra,9247241457,27129.0,Self-Employed,496.0,High School,Single
+CUST00217,Arjun,Desai,1965-05-19,Female,Kochi,Kerala,9542070132,42842.0,Self-Employed,744.0,Post Graduate,Married
+CUST00218,Sai,Patel,1998-10-03,Male,Nashik,Maharashtra,9366058599,103899.0,Self-Employed,686.0,Not Graduate,Married
+CUST00219,Sunita,Trivedi,1997-05-08,Female,Kochi,Kerala,9647095694,110669.0,Business Owner,555.0,High School,Divorced
+CUST00220,Vihaan,Joshi,1982-04-24,Female,Chennai,Tamil Nadu,9241715543,20916.0,Business Owner,675.0,Graduate,Single
+CUST00221,Ramesh,Reddy,1986-02-17,Male,Bhubaneswar,Odisha,9331652222,59399.0,Retired,677.0,Graduate,
+CUST00222,Anil,Rao,1996-12-19,Male,Kolkata,West Bengal,9761475488,17435.0,Business Owner,671.0,Graduate,Divorced
+CUST00223,Sai,Desai,1974-02-12,Male,Jaipur,Rajasthan,9883786839,25533.0,Salaried,740.0,Graduate,Single
+CUST00224,Myra,Gupta,1984-06-28,Male,Jaipur,Rajasthan,9247330045,58882.0,Retired,595.0,Post Graduate,Divorced
+CUST00225,Nikhil,Desai,2000-02-15,Female,Hyderabad,Telangana,9928316966,37913.0,Retired,584.0,High School,Married
+CUST00226,Riya,Desai,1976-10-18,Male,Pune,Maharashtra,9636452156,47508.0,Business Owner,765.0,Not Graduate,Married
+CUST00227,Ananya,Mehta,1969-08-13,Female,Bhubaneswar,Odisha,9362585121,29945.0,Retired,725.0,Graduate,Married
+CUST00228,Ishaan,Reddy,2003-06-20,Female,Jaipur,Rajasthan,9546952114,37604.0,Business Owner,608.0,Not Graduate,Married
+CUST00229,Arjun,Menon,1970-05-11,Female,Chandigarh,Punjab,9599391065,46466.0,Business Owner,586.0,Graduate,Married
+CUST00230,Sai,Pillai,1965-05-11,Male,Chennai,Tamil Nadu,9629741991,37166.0,Self-Employed,572.0,Post Graduate,Divorced
+CUST00231,Ishaan,Sharma,1983-05-25,Female,Jaipur,Rajasthan,9914893975,130922.0,Salaried,683.0,Graduate,Married
+CUST00232,Aadhya,Desai,1983-11-01,Female,Delhi,Delhi,9658087211,34549.0,Retired,699.0,High School,Married
+CUST00233,Sai,Menon,1987-09-03,Female,Pune,Maharashtra,9354231714,46343.0,Retired,660.0,Graduate,Married
+CUST00234,Rohan,Kulkarni,1977-03-14,Female,Chennai,Tamil Nadu,9582718617,66641.0,Salaried,748.0,Graduate,Married
+CUST00235,Ramesh,Singh,1974-04-25,Male,Bhubaneswar,Odisha,9426648350,37599.0,Self-Employed,628.0,Graduate,Divorced
+CUST00236,Rohan,Iyer,1996-11-25,Female,Pune,Maharashtra,9133374137,42722.0,Self-Employed,472.0,High School,Married
+CUST00237,Reyansh,Malhotra,2001-01-23,Male,Pune,Maharashtra,9499689381,22980.0,Business Owner,803.0,Post Graduate,Single
+CUST00238,Arjun,Sharma,1973-11-14,Female,Pune,Maharashtra,9154371817,111578.0,Retired,657.0,High School,Single
+CUST00239,Sunil,Sharma,1995-08-25,Male,Bengaluru,Karnataka,9137204552,65400.0,Business Owner,708.0,High School,Married
+CUST00240,Sunil,Chopra,1989-09-14,Male,Jaipur,Rajasthan,9367520363,228534.0,Retired,780.0,Not Graduate,Divorced
+CUST00241,Nikhil,Bose,2000-01-21,Male,Hyderabad,Telangana,9442392183,45983.0,Business Owner,594.0,Not Graduate,Married
+CUST00242,Vihaan,Bose,1981-01-13,Male,Hyderabad,Telangana,9386181187,21955.0,Self-Employed,698.0,Graduate,Married
+CUST00243,Geeta,Kumar,2002-08-24,Male,Chandigarh,Punjab,9485240450,33584.0,Business Owner,551.0,High School,Divorced
+CUST00244,Geeta,Menon,1990-04-05,Male,Nashik,Maharashtra,9626602103,35479.0,Self-Employed,582.0,Not Graduate,Married
+CUST00245,Kavya,Joshi,1988-08-13,Female,Mumbai,Maharashtra,9961596686,113956.0,Salaried,759.0,Post Graduate,Married
+CUST00246,Vivaan,Iyer,1996-08-11,Female,Kochi,Kerala,9856491925,48825.0,Salaried,813.0,High School,Single
+CUST00247,Karan,Rao,1971-02-14,Female,Chandigarh,Punjab,9859331874,50954.0,Self-Employed,602.0,Not Graduate,Married
+CUST00248,Lata,Reddy,1978-10-06,Male,Bengaluru,Karnataka,9520478827,104983.0,Self-Employed,728.0,Graduate,Divorced
+CUST00249,Kavya,Kulkarni,2001-04-13,Female,Jaipur,Rajasthan,9183544242,29184.0,Self-Employed,662.0,Not Graduate,Divorced
+CUST00250,Sai,Kulkarni,1965-07-06,Female,Chennai,Tamil Nadu,9101375634,31640.0,Retired,555.0,High School,Divorced
+CUST00251,Ananya,Chopra,2004-07-21,Male,Chennai,Tamil Nadu,9798973247,77892.0,Self-Employed,851.0,Not Graduate,Divorced
+CUST00252,Shreya,Gupta,2002-12-09,Male,Bhubaneswar,Odisha,9503144836,24360.0,Salaried,730.0,Graduate,Married
+CUST00253,Karan,Trivedi,1986-08-28,Male,Kochi,Kerala,9455510103,35407.0,Retired,636.0,Not Graduate,Married
+CUST00254,Sunita,Pillai,1994-08-20,Female,Gurgaon,Haryana,9104096941,36453.0,Retired,602.0,Not Graduate,Single
+CUST00255,Saanvi,Patel,1974-04-14,Female,Mumbai,Maharashtra,9605672755,50224.0,Salaried,605.0,Graduate,Single
+CUST00256,Ramesh,Kumar,1981-08-23,Male,Nashik,Maharashtra,9342925794,56118.0,Self-Employed,675.0,High School,Single
+CUST00257,Reyansh,Gupta,1980-06-03,Female,Kolkata,West Bengal,9978755907,43500.0,Self-Employed,598.0,Post Graduate,Single
+CUST00258,Rajesh,Rao,1982-09-17,Male,Pune,Maharashtra,9285627380,36739.0,Self-Employed,747.0,Post Graduate,Single
+CUST00259,Saanvi,Iyer,1983-12-29,Male,Mumbai,Maharashtra,9443328397,62972.0,Salaried,592.0,Post Graduate,Single
+CUST00260,Siddharth,Pillai,1989-10-06,Female,Bengaluru,Karnataka,9730905018,51516.0,Salaried,747.0,Graduate,Divorced
+CUST00261,Pooja,Iyer,1990-06-02,Female,Nashik,Maharashtra,9943687944,21275.0,Retired,728.0,Graduate,Married
+CUST00262,Anika,Kumar,1986-10-13,Male,Kolkata,West Bengal,9831017246,35196.0,Retired,731.0,Not Graduate,Divorced
+CUST00263,Karan,Joshi,1998-06-15,Female,Mumbai,Maharashtra,9433879270,33468.0,Salaried,517.0,High School,Single
+CUST00264,Kiara,Iyer,1998-05-13,Female,Gurgaon,Haryana,9301794412,21725.0,Retired,684.0,Not Graduate,Married
+CUST00265,Deepak,Singh,10/07/1967,Male,Ahmedabad,Gujarat,9710607239,55818.0,Self-Employed,598.0,Not Graduate,Divorced
+CUST00266,Vihaan,Joshi,1985-06-23,Male,Mumbai,Maharashtra,9526213526,67460.0,Salaried,530.0,High School,Divorced
+CUST00267,Myra,Singh,1991-08-25,Male,Chennai,Tamil Nadu,9904190892,47427.0,Business Owner,571.0,High School,Single
+CUST00268,Vivaan,Kumar,1972-04-23,Female,Mumbai,Maharashtra,9321975705,35386.0,Salaried,684.0,Post Graduate,Divorced
+CUST00269,Aarav,Bose,1970-12-08,Female,Jaipur,Rajasthan,9865299271,31881.0,Retired,645.0,,Single
+CUST00270,Siddharth,Singh,1976-04-21,Female,Chennai,Tamil Nadu,9649233665,81076.0,Business Owner,628.0,Not Graduate,Married
+CUST00271,Ira,Patel,1967-11-12,Male,Chennai,Tamil Nadu,9799506796,74447.0,Self-Employed,578.0,High School,Divorced
+CUST00272,Vihaan,Trivedi,1994-08-19,Male,Bengaluru,Karnataka,9549431487,63888.0,Self-Employed,809.0,Not Graduate,Single
+CUST00273,Karan,Joshi,1988-12-25,Male,Kolkata,West Bengal,9806108387,14245.0,Business Owner,608.0,High School,Married
+CUST00274,Reyansh,Bose,1998-03-28,Female,Nashik,Maharashtra,9802693852,65416.0,Self-Employed,661.0,Post Graduate,Single
+CUST00275,Ira,Chopra,2004-10-13,Male,Bhubaneswar,Odisha,9726608478,59016.0,Retired,625.0,Graduate,Divorced
+CUST00276,Saanvi,Desai,2003-12-01,Female,Pune,Maharashtra,9467938988,51189.0,Self-Employed,665.0,Post Graduate,Married
+CUST00277,Rohan,Reddy,1968-08-17,Male,Bhubaneswar,Odisha,9393698307,87894.0,Self-Employed,702.0,Graduate,
+CUST00278,Sunil,Gupta,1992-07-25,Female,Nashik,Maharashtra,9673144707,58034.0,Salaried,642.0,Not Graduate,Married
+CUST00279,Rohan,Desai,1965-10-21,Female,Delhi,Delhi,9511834185,38414.0,Self-Employed,641.0,High School,Married
+CUST00280,Arjun,Verma,1978-01-17,Female,Gurgaon,Haryana,9468006578,59708.0,Business Owner,642.0,Not Graduate,Married
+CUST00281,Saanvi,Reddy,2001-06-04,Male,Jaipur,Rajasthan,9733177858,56663.0,Business Owner,866.0,Post Graduate,Married
+CUST00282,Aditya,Kumar,22/09/1993,Male,Jaipur,Rajasthan,9997777024,75777.0,Retired,650.0,Graduate,Divorced
+CUST00283,Shreya,Kumar,1989-07-20,Female,Pune,Maharashtra,9208426285,89375.0,Self-Employed,643.0,Graduate,Divorced
+CUST00284,Pooja,Patel,1997-03-30,Male,Hyderabad,Telangana,9935327024,17693.0,Business Owner,589.0,Not Graduate,Married
+CUST00285,Pooja,Rao,1966-10-08,Male,Nashik,Maharashtra,9113689561,19237.0,Retired,648.0,Not Graduate,Married
+CUST00286,Ishaan,Gupta,1987-12-15,Male,Bhubaneswar,Odisha,9383602087,49474.0,Self-Employed,830.0,Post Graduate,Single
+CUST00287,Aditya,Rao,2000-12-16,Male,Chandigarh,Punjab,9248599901,57726.0,Business Owner,660.0,Graduate,
+CUST00288,Nikhil,Malhotra,1977-01-13,Female,Kochi,Kerala,9590204687,74213.0,Retired,480.0,Post Graduate,Single
+CUST00289,Pooja,Reddy,1970-12-12,Female,Pune,Maharashtra,9618268171,55149.0,Self-Employed,749.0,Post Graduate,Divorced
+CUST00290,Tanya,Kumar,1981-02-01,Female,Bhubaneswar,Odisha,9221265692,23405.0,Salaried,782.0,Post Graduate,Single
+CUST00291,Arjun,Mehta,1979-02-05,Male,Kolkata,West Bengal,9463247548,58060.0,Retired,,Post Graduate,Divorced
+CUST00292,Myra,Bose,1994-10-10,Female,Chandigarh,Punjab,9268499484,67264.0,Retired,884.0,Graduate,
+CUST00293,Ananya,Gupta,1987-01-21,Male,Bhubaneswar,Odisha,9533015368,53687.0,Retired,702.0,Post Graduate,Single
+CUST00294,Shreya,Menon,1968-12-13,Male,Chennai,Tamil Nadu,9210212429,38961.0,Salaried,603.0,Not Graduate,Married
+CUST00295,Sai,Trivedi,1993-08-07,Male,Kochi,Kerala,9986170931,74248.0,Retired,602.0,Not Graduate,Single
+CUST00296,Karan,Pillai,20/10/1992,Female,Bhubaneswar,Odisha,9338099150,50806.0,Business Owner,637.0,Not Graduate,Divorced
+CUST00297,Sunita,Desai,1996-06-30,Female,Chandigarh,Punjab,9310369078,62285.0,Self-Employed,710.0,Not Graduate,Divorced
+CUST00298,Isha,Nair,1980-02-28,Male,Patna,Bihar,9591116494,82352.0,Retired,634.0,Graduate,Single
+CUST00299,Aarav,Desai,1967-03-07,Male,Patna,Bihar,9884362665,42832.0,Retired,591.0,Post Graduate,Married
+CUST00300,Kavya,Trivedi,1979-06-10,Male,Jaipur,Rajasthan,9415866432,39255.0,Self-Employed,713.0,Post Graduate,Single
+CUST00301,Pooja,Trivedi,2004-10-06,Male,Patna,Bihar,9779231134,71574.0,Business Owner,597.0,High School,Divorced
+CUST00302,Nikhil,Iyer,1994-03-01,Female,Patna,Bihar,9703743777,75720.0,Business Owner,802.0,High School,Single
+CUST00303,Neha,Sharma,1969-10-11,Male,Hyderabad,Telangana,9407751103,60277.0,Salaried,848.0,Post Graduate,Married
+CUST00304,Navya,Nair,1989-04-11,Female,Bhubaneswar,Odisha,9517563874,33293.0,Salaried,567.0,Post Graduate,Divorced
+CUST00305,Siddharth,Kumar,2000-05-09,Female,Bengaluru,Karnataka,9766323040,20143.0,Self-Employed,814.0,Graduate,Married
+CUST00306,Varun,Menon,1998-02-15,Male,Hyderabad,Telangana,9179960473,67994.0,Salaried,674.0,High School,Divorced
+CUST00307,Siddharth,Verma,1977-07-09,Male,Bengaluru,Karnataka,9600719456,56386.0,Salaried,578.0,High School,
+CUST00308,Ishaan,Kulkarni,1967-04-14,Female,Kochi,Kerala,9690729993,166520.0,Self-Employed,691.0,High School,Divorced
+CUST00309,Diya,Desai,2000-04-09,Female,Pune,Maharashtra,9812249975,51776.0,Business Owner,745.0,Graduate,Married
+CUST00310,Aadhya,Trivedi,1986-04-21,Male,Hyderabad,Telangana,9578531560,62349.0,Salaried,700.0,Graduate,Single
+CUST00311,Rohan,Kumar,2000-09-19,Female,Jaipur,Rajasthan,9982732880,33016.0,Retired,722.0,High School,Divorced
+CUST00312,Aditya,Rao,24/03/1994,Male,Jaipur,Rajasthan,9672525395,125619.0,Self-Employed,801.0,Post Graduate,Divorced
+CUST00313,Aadhya,Chopra,1969-08-30,Male,Ahmedabad,Gujarat,9901967913,108726.0,Retired,633.0,Not Graduate,Married
+CUST00314,Karan,Verma,1968-04-15,Female,Pune,Maharashtra,9516646839,29887.0,Retired,668.0,Post Graduate,Single
+CUST00315,Rohan,Sharma,1995-03-16,Male,Bengaluru,Karnataka,9148873346,,Business Owner,778.0,Graduate,Divorced
+CUST00316,Anil,Patel,2000-04-19,Male,Gurgaon,Haryana,9133091814,21031.0,Self-Employed,817.0,Not Graduate,Divorced
+CUST00317,Meera,Pillai,1993-06-11,Male,Gurgaon,Haryana,9694342064,45296.0,Salaried,641.0,High School,Married
+CUST00318,Aditya,Sharma,1991-10-07,Male,Kochi,Kerala,9469207896,29553.0,Self-Employed,531.0,Post Graduate,Divorced
+CUST00319,Diya,Joshi,2002-06-12,Male,Kochi,Kerala,9595279737,73982.0,Business Owner,686.0,Graduate,Divorced
+CUST00320,Arjun,Mehta,1973-11-09,Male,Pune,Maharashtra,9207422565,25719.0,Self-Employed,563.0,Post Graduate,Married
+CUST00321,Rohan,Bose,24/09/1979,Male,Chennai,Tamil Nadu,9281075299,41444.0,Self-Employed,830.0,High School,Single
+CUST00322,Neha,Mehta,1981-02-15,Male,Ahmedabad,Gujarat,9622881542,43053.0,Salaried,544.0,Not Graduate,Single
+CUST00323,Riya,Iyer,1989-02-28,Female,Jaipur,Rajasthan,9778203785,43352.0,Self-Employed,655.0,Graduate,Divorced
+CUST00324,Aditya,Pillai,1989-05-19,Female,Gurgaon,Haryana,9929084214,12727.0,Self-Employed,675.0,Post Graduate,Married
+CUST00325,Isha,Desai,1969-01-23,Male,Hyderabad,Telangana,9579125557,43675.0,Retired,742.0,Post Graduate,Married
+CUST00326,Nikhil,Verma,1999-02-27,Female,Delhi,Delhi,9949824193,123559.0,Retired,781.0,Graduate,Divorced
+CUST00327,Aditya,Verma,1979-07-16,Male,Kolkata,West Bengal,9721300772,42854.0,Retired,580.0,High School,Single
+CUST00328,Siddharth,Singh,1994-04-23,Female,Kochi,Kerala,9977501292,177491.0,Retired,685.0,Post Graduate,Single
+CUST00329,Kavya,Sharma,2004-07-26,Male,Hyderabad,Telangana,9268961168,49363.0,Self-Employed,677.0,High School,Married
+CUST00330,Pooja,Kulkarni,1970-01-31,Male,Patna,Bihar,9124101254,54124.0,Self-Employed,667.0,Post Graduate,Single
+CUST00331,Krishna,Desai,2004-12-16,Male,Mumbai,Maharashtra,9743555234,36796.0,Business Owner,630.0,Post Graduate,Single
+CUST00332,Sai,Nair,1992-03-17,Female,Chennai,Tamil Nadu,9980954894,48224.0,Self-Employed,631.0,Not Graduate,Divorced
+CUST00333,Karan,Malhotra,1991-06-30,Male,Kochi,Kerala,9834834366,34323.0,Salaried,689.0,Graduate,Divorced
+CUST00334,Diya,Bose,1992-07-30,Male,Jaipur,Rajasthan,9239939527,43153.0,Retired,815.0,Graduate,Divorced
+CUST00335,Deepak,Chopra,2004-03-30,Male,Chandigarh,Punjab,9476365632,13023.0,Retired,778.0,Not Graduate,Single
+CUST00336,Krishna,Mehta,1999-05-10,Male,Chennai,Tamil Nadu,9861442766,91403.0,Salaried,493.0,Not Graduate,Married
+CUST00337,Deepak,Sharma,1994-05-13,Female,Bengaluru,Karnataka,9728536453,41301.0,Business Owner,646.0,Graduate,Divorced
+CUST00338,Tanya,Mehta,1982-10-30,Female,Kolkata,West Bengal,9695831533,24251.0,Business Owner,609.0,Not Graduate,Divorced
+CUST00339,Meera,Iyer,2003-10-01,Male,Ahmedabad,Gujarat,9530098998,28133.0,Self-Employed,837.0,Post Graduate,Divorced
+CUST00340,Siddharth,Sharma,1969-02-01,Male,Bhubaneswar,Odisha,9498181191,78263.0,Retired,794.0,Graduate,Married
+CUST00341,Meera,Trivedi,1988-05-16,Female,Kolkata,West Bengal,9111500207,70321.0,Self-Employed,578.0,Post Graduate,Single
+CUST00342,Aditya,Trivedi,1988-02-21,Female,Hyderabad,Telangana,9269055029,37712.0,Retired,724.0,High School,Married
+CUST00343,Nikhil,Kumar,1991-04-17,Female,Bengaluru,Karnataka,9990953173,26607.0,Business Owner,744.0,Graduate,Divorced
+CUST00344,Riya,Joshi,1973-09-23,Female,Kochi,Kerala,9214315878,43470.0,Business Owner,646.0,,Divorced
+CUST00345,Ayaan,Desai,2004-04-20,Female,Gurgaon,Haryana,9619293644,69946.0,Retired,719.0,Not Graduate,Divorced
+CUST00346,Isha,Menon,1966-03-25,Female,Ahmedabad,Gujarat,9959166755,40925.0,Salaried,784.0,Post Graduate,Married
+CUST00347,Anika,Joshi,1969-03-04,Female,Gurgaon,Haryana,9334683594,28551.0,Self-Employed,735.0,Post Graduate,Single
+CUST00348,Saanvi,Bose,1973-12-16,Male,Patna,Bihar,9998007554,65943.0,Salaried,652.0,Post Graduate,Married
+CUST00349,Ayaan,Gupta,1994-10-05,Female,Kolkata,West Bengal,9766436631,,Retired,567.0,Graduate,Single
+CUST00350,Diya,Desai,1982-11-06,Female,Gurgaon,Haryana,9134963873,77809.0,Self-Employed,663.0,Not Graduate,Divorced
+CUST00351,Isha,Patel,1988-03-31,Female,Patna,Bihar,9208177158,37746.0,Self-Employed,774.0,,Divorced
+CUST00352,Sunita,Mehta,1977-01-31,Female,Delhi,Delhi,9852384450,34469.0,Retired,553.0,Not Graduate,Single
+CUST00353,Riya,Malhotra,1990-08-19,Female,Nashik,Maharashtra,9696291839,22509.0,Self-Employed,734.0,Graduate,Married
+CUST00354,Ishaan,Iyer,2001-02-21,Male,Chennai,Tamil Nadu,9369481312,25842.0,Retired,,High School,Single
+CUST00355,Reyansh,Reddy,1974-09-01,Female,Mumbai,Maharashtra,9487580021,17309.0,Business Owner,832.0,Not Graduate,Single
+CUST00356,Vivaan,Chopra,1980-10-01,Female,Pune,Maharashtra,9481295430,54475.0,Retired,671.0,Post Graduate,Single
+CUST00357,Sai,Kumar,1977-11-08,Male,Kochi,Kerala,9713791169,37329.0,Salaried,715.0,High School,Divorced
+CUST00358,Ananya,Kulkarni,1979-01-24,Female,Delhi,Delhi,9938564480,48106.0,Retired,779.0,Not Graduate,Single
+CUST00359,Pooja,Reddy,2003-04-27,Female,Nashik,Maharashtra,9210605413,51902.0,Salaried,693.0,Graduate,Single
+CUST00360,Vivaan,Kumar,1999-04-26,Female,Hyderabad,Telangana,9432184213,40871.0,Retired,674.0,Graduate,Single
+CUST00361,Krishna,Iyer,2002-08-13,Female,Hyderabad,Telangana,9680447823,57176.0,Self-Employed,526.0,High School,Single
+CUST00362,Ramesh,Reddy,1991-10-22,Female,Kochi,Kerala,9673146349,24981.0,Retired,746.0,Not Graduate,Divorced
+CUST00363,Ramesh,Joshi,1969-01-07,Male,Bhubaneswar,Odisha,9661906534,53392.0,Business Owner,663.0,High School,
+CUST00364,Navya,Bose,1965-05-17,Male,Hyderabad,Telangana,9562176397,49474.0,Salaried,711.0,High School,
+CUST00365,Sunita,Singh,1983-06-21,Male,Delhi,Delhi,9382372922,37425.0,Business Owner,609.0,Not Graduate,Married
+CUST00366,Navya,Pillai,1977-01-22,Female,Bhubaneswar,Odisha,9763281908,54063.0,Self-Employed,591.0,High School,Single
+CUST00367,Rohan,Sharma,1967-03-25,Male,Nashik,Maharashtra,9570746273,60121.0,Salaried,526.0,High School,Divorced
+CUST00368,Ishaan,Sharma,1974-09-29,Male,Chennai,Tamil Nadu,9454601784,82008.0,Salaried,722.0,High School,Married
+CUST00369,Riya,Kumar,1989-05-14,Female,Pune,Maharashtra,9924790131,55715.0,Retired,768.0,Not Graduate,Married
+CUST00370,Myra,Verma,1985-09-03,Male,Delhi,Delhi,9435124877,112728.0,Salaried,771.0,Post Graduate,Divorced
+CUST00371,Sunita,Desai,1976-05-13,Female,Pune,Maharashtra,9221256011,19527.0,Business Owner,564.0,Graduate,Married
+CUST00372,Aarav,Reddy,1977-05-21,Male,Bhubaneswar,Odisha,9610318004,35867.0,Business Owner,682.0,Graduate,Divorced
+CUST00373,Sai,Joshi,1987-06-05,Male,Nashik,Maharashtra,9265268660,63502.0,Self-Employed,614.0,Graduate,Divorced
+CUST00374,Sunil,Joshi,1990-01-18,Male,Chandigarh,Punjab,9840076530,53819.0,Business Owner,612.0,Not Graduate,Married
+CUST00375,Aditya,Bose,1984-08-17,Male,Patna,Bihar,9886411102,36106.0,Salaried,553.0,Post Graduate,Single
+CUST00376,Deepak,Iyer,1978-04-07,Male,Chennai,Tamil Nadu,9765434962,30896.0,Business Owner,558.0,Not Graduate,Married
+CUST00377,Arjun,Pillai,1982-05-20,Male,Ahmedabad,Gujarat,9540024260,30093.0,Salaried,774.0,Post Graduate,Single
+CUST00378,Deepak,Gupta,2002-06-19,Female,Mumbai,Maharashtra,9134163406,30494.0,Retired,900.0,Graduate,Married
+CUST00379,Deepak,Trivedi,1991-06-25,Male,Patna,Bihar,9324130818,62734.0,Retired,696.0,Graduate,
+CUST00380,Vihaan,Singh,1998-05-09,Male,Hyderabad,Telangana,9668031793,31914.0,Business Owner,743.0,Graduate,Single
+CUST00381,Arjun,Nair,1969-05-11,Male,Hyderabad,Telangana,9712062546,36760.0,Retired,690.0,Post Graduate,Married
+CUST00382,Reyansh,Menon,1995-04-04,Male,Chandigarh,Punjab,9531168733,176317.0,Retired,671.0,Post Graduate,Divorced
+CUST00383,Nikhil,Kulkarni,1979-07-26,Female,Hyderabad,Telangana,9685861719,87084.0,Business Owner,616.0,High School,Divorced
+CUST00384,Shreya,Malhotra,1965-01-04,Male,Bengaluru,Karnataka,9107053228,48170.0,Self-Employed,839.0,Post Graduate,Single
+CUST00385,Rohan,Sharma,2001-11-14,Female,Bhubaneswar,Odisha,9481882460,35829.0,Business Owner,843.0,Post Graduate,Single
+CUST00386,Lata,Joshi,1976-06-30,Male,Delhi,Delhi,9448635435,69833.0,Retired,629.0,Post Graduate,Divorced
+CUST00387,Geeta,Patel,1993-10-23,Female,Kochi,Kerala,9473587211,67252.0,Retired,767.0,Graduate,Single
+CUST00388,Ayaan,Joshi,1994-04-14,Male,Patna,Bihar,9144219109,66896.0,Business Owner,538.0,Not Graduate,Divorced
+CUST00389,Anil,Joshi,1967-04-08,Male,Nashik,Maharashtra,9944356532,34078.0,Business Owner,657.0,Graduate,Single
+CUST00390,Sai,Bose,1998-06-08,Male,Kochi,Kerala,9918226618,47229.0,Retired,735.0,Not Graduate,Married
+CUST00391,Meera,Menon,1990-03-05,Male,Delhi,Delhi,9447260600,53575.0,Salaried,559.0,Graduate,Single
+CUST00392,Pooja,Chopra,1980-08-16,Female,Chandigarh,Punjab,9761662253,59284.0,Self-Employed,734.0,High School,Single
+CUST00393,Shreya,Verma,2001-09-13,Male,Jaipur,Rajasthan,9360971128,64854.0,Business Owner,777.0,Graduate,Married
+CUST00394,Aarav,Kulkarni,2001-01-29,Female,Patna,Bihar,9318830034,74381.0,Retired,721.0,Post Graduate,Married
+CUST00395,Tanya,Iyer,1996-05-06,Female,Patna,Bihar,9404957218,47330.0,Salaried,530.0,Graduate,Married
+CUST00396,Isha,Sharma,1982-06-08,Female,Pune,Maharashtra,9414064734,60767.0,Self-Employed,698.0,High School,Married
+CUST00397,Siddharth,Desai,1969-06-20,Male,Patna,Bihar,9591759000,56150.0,Salaried,565.0,Graduate,Divorced
+CUST00398,Myra,Desai,1979-12-19,Female,Gurgaon,Haryana,9353622930,28551.0,Salaried,774.0,High School,Single
+CUST00399,Anika,Kumar,2001-07-21,Female,Jaipur,Rajasthan,9805375110,48060.0,Self-Employed,741.0,Post Graduate,Single
+CUST00400,Pooja,Joshi,1971-11-08,Male,Kochi,Kerala,9800587168,49719.0,Self-Employed,682.0,Not Graduate,Married
+CUST00401,Ira,Desai,1971-01-25,Male,Jaipur,Rajasthan,9672263097,78365.0,Self-Employed,633.0,Post Graduate,Divorced
+CUST00402,Rohan,Iyer,1966-04-29,Female,Patna,Bihar,9982292061,51434.0,Self-Employed,638.0,Not Graduate,Divorced
+CUST00403,Saanvi,Patel,15/04/1973,Male,Nashik,Maharashtra,9838066391,39448.0,Retired,652.0,Post Graduate,Married
+CUST00404,Krishna,Desai,1992-02-16,Male,Ahmedabad,Gujarat,9275864280,54779.0,Retired,636.0,Not Graduate,Married
+CUST00405,Aarav,Mehta,1974-12-26,Female,Bengaluru,Karnataka,9762562441,91846.0,Retired,599.0,Graduate,Single
+CUST00406,Myra,Chopra,1999-10-27,Male,Bengaluru,Karnataka,9714109940,44647.0,Salaried,640.0,High School,Divorced
+CUST00407,Shreya,Malhotra,2004-05-17,Male,Ahmedabad,Gujarat,9698826833,101061.0,Self-Employed,697.0,Not Graduate,Married
+CUST00408,Navya,Malhotra,2004-09-02,Male,Bengaluru,Karnataka,9840831347,82118.0,Retired,546.0,Not Graduate,Married
+CUST00409,Shreya,Gupta,17/06/1987,Female,Patna,Bihar,9584135007,56023.0,Self-Employed,760.0,Post Graduate,Single
+CUST00410,Isha,Gupta,1979-07-16,Male,Gurgaon,Haryana,9582537877,51079.0,Retired,775.0,Graduate,Divorced
+CUST00411,Anil,Trivedi,1981-12-27,Male,Nashik,Maharashtra,9261157630,37848.0,Self-Employed,806.0,High School,Divorced
+CUST00412,Vihaan,Chopra,20/11/1978,Female,Gurgaon,Haryana,9317810361,154731.0,Salaried,647.0,Post Graduate,Married
+CUST00413,Isha,Bose,1987-05-15,Female,Ahmedabad,Gujarat,9610791858,,Salaried,810.0,Post Graduate,Divorced
+CUST00414,Kavya,Trivedi,1975-12-24,Male,Mumbai,Maharashtra,9159124453,107989.0,Self-Employed,632.0,Post Graduate,Married
+CUST00415,Aditya,Menon,1992-01-24,Male,Ahmedabad,Gujarat,9821651676,39731.0,Retired,654.0,Not Graduate,Married
+CUST00416,Lata,Singh,1966-08-11,Female,Jaipur,Rajasthan,9691063829,25028.0,Self-Employed,597.0,Not Graduate,Single
+CUST00417,Ayaan,Mehta,1988-08-23,Male,Chandigarh,Punjab,9775360627,29671.0,Retired,610.0,Graduate,Divorced
+CUST00418,Kavya,Rao,1992-04-24,Female,Bengaluru,Karnataka,9704124018,48177.0,Retired,701.0,High School,Divorced
+CUST00419,Diya,Trivedi,1996-10-14,Female,Delhi,Delhi,9891850638,106430.0,Retired,590.0,Not Graduate,Married
+CUST00420,Aditya,Kulkarni,1990-02-20,Female,Chandigarh,Punjab,9430468261,80190.0,Salaried,660.0,High School,Married
+CUST00421,Ayaan,Kulkarni,1982-10-07,Female,Chandigarh,Punjab,9822062338,47823.0,Salaried,740.0,Post Graduate,Single
+CUST00422,Krishna,Bose,1993-02-19,Female,Nashik,Maharashtra,9897344195,27963.0,Business Owner,714.0,Not Graduate,Single
+CUST00423,Sunita,Pillai,1974-05-06,Female,Mumbai,Maharashtra,9401141657,53275.0,Retired,724.0,High School,Married
+CUST00424,Ramesh,Reddy,1992-03-03,Female,Kochi,Kerala,9862184916,56646.0,Salaried,900.0,High School,Single
+CUST00425,Sunil,Joshi,1985-04-10,Male,Chandigarh,Punjab,9935146073,35636.0,Retired,632.0,Post Graduate,Married
+CUST00426,Anil,Sharma,1986-08-26,Male,Bhubaneswar,Odisha,9433245127,35897.0,Salaried,630.0,Not Graduate,Divorced
+CUST00427,Deepak,Iyer,1997-07-03,Male,Delhi,Delhi,9147276808,35642.0,Business Owner,787.0,Graduate,
+CUST00428,Isha,Verma,1988-05-09,Female,Pune,Maharashtra,9444542674,99733.0,Business Owner,628.0,High School,Married
+CUST00429,Ramesh,Kulkarni,1984-10-15,Male,Bhubaneswar,Odisha,9700893588,32332.0,Business Owner,722.0,Graduate,Divorced
+CUST00430,Sunita,Kulkarni,1971-05-09,Male,Gurgaon,Haryana,9463718119,37193.0,Self-Employed,736.0,Post Graduate,Divorced
+CUST00431,Vivaan,Bose,1995-04-21,Female,Jaipur,Rajasthan,9736467148,54255.0,Business Owner,543.0,Not Graduate,Divorced
+CUST00432,Ira,Kulkarni,1973-11-21,Female,Ahmedabad,Gujarat,9972792130,106271.0,Salaried,841.0,Not Graduate,Married
+CUST00433,Isha,Rao,1993-11-28,Female,Kolkata,West Bengal,9377082043,36084.0,Self-Employed,645.0,Post Graduate,Divorced
+CUST00434,Karan,Kulkarni,1986-11-14,Male,Chennai,Tamil Nadu,9924570922,56552.0,Salaried,710.0,Not Graduate,Single
+CUST00435,Meera,Patel,1989-12-12,Male,Chandigarh,Punjab,9766659283,68136.0,Retired,860.0,Not Graduate,Married
+CUST00436,Siddharth,Gupta,1974-05-05,Male,Chandigarh,Punjab,9684681287,44870.0,Salaried,608.0,Not Graduate,Single
+CUST00437,Geeta,Bose,1991-07-26,Female,Pune,Maharashtra,9174740628,24596.0,Business Owner,614.0,Not Graduate,Single
+CUST00438,Sunil,Verma,1974-10-06,Female,Pune,Maharashtra,9260219920,48215.0,Retired,841.0,Graduate,Divorced
+CUST00439,Tanya,Menon,1973-10-11,Female,Chennai,Tamil Nadu,9870722451,37842.0,Salaried,700.0,High School,Single
+CUST00440,Lata,Sharma,1987-11-24,Female,Kochi,Kerala,9100905503,48619.0,Salaried,786.0,High School,Married
+CUST00441,Navya,Sharma,1984-05-14,Male,Delhi,Delhi,9685316847,173419.0,Retired,632.0,Not Graduate,Single
+CUST00442,Krishna,Nair,1982-04-03,Male,Hyderabad,Telangana,9234807378,38379.0,Salaried,773.0,High School,Divorced
+CUST00443,Ishaan,Bose,1984-08-04,Male,Kolkata,West Bengal,9749001242,68936.0,Retired,846.0,Not Graduate,Divorced
+CUST00444,Anil,Chopra,2001-10-15,Female,Hyderabad,Telangana,9354208336,65641.0,Retired,647.0,Graduate,Divorced
+CUST00445,Ramesh,Menon,1966-07-03,Female,Chandigarh,Punjab,9185967108,65862.0,Retired,779.0,Graduate,Divorced
+CUST00446,Deepak,Gupta,2004-12-02,Male,Hyderabad,Telangana,9956951458,73883.0,Business Owner,725.0,Graduate,Divorced
+CUST00447,Ramesh,Sharma,1985-05-14,Female,Chennai,Tamil Nadu,9410535202,83561.0,Business Owner,785.0,Not Graduate,Single
+CUST00448,Vihaan,Bose,1972-08-02,Female,Kochi,Kerala,9236173369,97839.0,Business Owner,738.0,Graduate,Married
+CUST00449,Krishna,Trivedi,1977-05-07,Female,Gurgaon,Haryana,9262280626,,Self-Employed,693.0,Post Graduate,Divorced
+CUST00450,Anika,Joshi,1973-02-10,Female,Chennai,Tamil Nadu,9982319181,89612.0,Retired,606.0,Graduate,Divorced
+CUST00451,Siddharth,Joshi,1984-09-29,Male,Kolkata,West Bengal,9911194689,58943.0,Self-Employed,644.0,High School,Single
+CUST00452,Isha,Kumar,1978-07-09,Male,Chennai,Tamil Nadu,9518834994,49730.0,Retired,795.0,Post Graduate,Divorced
+CUST00453,Aarav,Rao,2000-10-07,Female,Jaipur,Rajasthan,9784428973,53935.0,Business Owner,684.0,Graduate,Divorced
+CUST00454,Karan,Mehta,2000-12-28,Female,Gurgaon,Haryana,9927315167,24836.0,Self-Employed,747.0,Post Graduate,Divorced
+CUST00455,Rohan,Pillai,1995-03-08,Female,Mumbai,Maharashtra,9335596484,67693.0,Self-Employed,,Graduate,Single
+CUST00456,Aditya,Sharma,1969-02-15,Male,Kochi,Kerala,9230771153,42028.0,Salaried,699.0,Post Graduate,Divorced
+CUST00457,Kavya,Iyer,1994-06-12,Female,Bengaluru,Karnataka,9297850884,55530.0,Salaried,821.0,Post Graduate,Divorced
+CUST00458,Isha,Mehta,1984-02-26,Female,Bhubaneswar,Odisha,9397735164,46739.0,Retired,705.0,High School,Married
+CUST00459,Karan,Verma,2001-06-17,Male,Gurgaon,Haryana,9793082286,66432.0,Retired,696.0,Post Graduate,Married
+CUST00460,Aadhya,Trivedi,1969-10-07,Male,Kolkata,West Bengal,9369075781,39213.0,Retired,697.0,Graduate,Divorced
+CUST00461,Ishaan,Sharma,1966-09-12,Female,Jaipur,Rajasthan,9859785782,83852.0,Retired,587.0,Not Graduate,Divorced
+CUST00462,Neha,Kumar,1997-08-24,Male,Ahmedabad,Gujarat,9978295746,52390.0,Business Owner,616.0,Graduate,Divorced
+CUST00463,Karan,Rao,1967-06-24,Male,Bengaluru,Karnataka,9916530277,89100.0,Self-Employed,542.0,High School,Single
+CUST00464,Sunita,Verma,1994-08-22,Male,Bengaluru,Karnataka,9570281466,37069.0,Salaried,713.0,High School,Divorced
+CUST00465,Saanvi,Sharma,1991-08-07,Male,Patna,Bihar,9117629000,107233.0,Business Owner,674.0,High School,Single
+CUST00466,Aditya,Kumar,1974-07-01,Male,Pune,Maharashtra,9177345357,37138.0,Retired,849.0,Post Graduate,Married
+CUST00467,Vivaan,Bose,1992-09-27,Female,Jaipur,Rajasthan,9981262028,23765.0,Self-Employed,482.0,Post Graduate,Single
+CUST00468,Lata,Gupta,2001-09-02,Female,Ahmedabad,Gujarat,9557641077,61084.0,Business Owner,634.0,Post Graduate,Married
+CUST00469,Ayaan,Menon,1971-03-01,Male,Hyderabad,Telangana,9167883991,29418.0,Retired,743.0,Graduate,Single
+CUST00470,Ananya,Singh,1972-05-27,Male,Hyderabad,Telangana,9757604060,55375.0,Salaried,629.0,Graduate,Divorced
+CUST00471,Sunil,Gupta,1965-04-29,Male,Mumbai,Maharashtra,9843414103,25844.0,Business Owner,758.0,High School,Single
+CUST00472,Deepak,Malhotra,1975-09-25,Female,Bengaluru,Karnataka,9194512033,67853.0,Business Owner,671.0,Post Graduate,Divorced
+CUST00473,Pooja,Sharma,1975-07-28,Male,Hyderabad,Telangana,9644967737,123416.0,Business Owner,583.0,High School,Divorced
+CUST00474,Vihaan,Nair,2000-09-25,Female,Pune,Maharashtra,9146295027,22862.0,Business Owner,617.0,Not Graduate,Divorced
+CUST00475,Aadhya,Chopra,1979-12-31,Male,Gurgaon,Haryana,9288857880,47916.0,Retired,701.0,Graduate,Divorced
+CUST00476,Anil,Patel,1975-07-23,Female,Pune,Maharashtra,9347028515,43450.0,Self-Employed,711.0,Post Graduate,Single
+CUST00477,Reyansh,Joshi,1983-07-05,Female,Patna,Bihar,9568006548,26218.0,Self-Employed,809.0,Not Graduate,Married
+CUST00478,Siddharth,Singh,1985-07-14,Female,Nashik,Maharashtra,9843255395,47048.0,Self-Employed,780.0,Post Graduate,Married
+CUST00479,Ayaan,Malhotra,1983-10-06,Male,Chennai,Tamil Nadu,9756623287,58183.0,Salaried,721.0,Post Graduate,Divorced
+CUST00480,Pooja,Desai,2003-09-05,Male,Chennai,Tamil Nadu,9559680005,65178.0,Self-Employed,720.0,High School,
+CUST00481,Rohan,Chopra,1974-12-23,Male,Kochi,Kerala,9143012678,67599.0,Retired,799.0,Graduate,Married
+CUST00482,Deepak,Kumar,2001-04-28,Male,Chennai,Tamil Nadu,9844274708,54082.0,Self-Employed,743.0,Post Graduate,Married
+CUST00483,Nikhil,Rao,1994-01-19,Female,Delhi,Delhi,9902392977,46869.0,Retired,809.0,Post Graduate,Divorced
+CUST00484,Krishna,Kumar,2000-06-07,Female,Nashik,Maharashtra,9513260967,34954.0,Salaried,842.0,Graduate,Married
+CUST00485,Navya,Chopra,1977-02-07,Male,Bhubaneswar,Odisha,9766208705,48046.0,Business Owner,551.0,Post Graduate,Married
+CUST00486,Vihaan,Patel,1981-05-26,Male,Bengaluru,Karnataka,9248612097,52263.0,Salaried,618.0,Graduate,Married
+CUST00487,Rajesh,Menon,1996-07-12,Male,Ahmedabad,Gujarat,9830387900,74631.0,Salaried,621.0,High School,Divorced
+CUST00488,Varun,Singh,1986-10-24,Male,Chennai,Tamil Nadu,9958890239,39218.0,Self-Employed,509.0,High School,Single
+CUST00489,Isha,Gupta,1982-07-11,Male,Pune,Maharashtra,9848486223,39098.0,Self-Employed,461.0,Graduate,Married
+CUST00490,Deepak,Sharma,08/09/1983,Male,Gurgaon,Haryana,9792224650,22204.0,Salaried,748.0,High School,Divorced
+CUST00491,Vivaan,Joshi,1988-04-23,Female,Ahmedabad,Gujarat,9848251568,72613.0,Retired,718.0,High School,Divorced
+CUST00492,Ira,Menon,2000-05-29,Female,Nashik,Maharashtra,9259277073,30227.0,Self-Employed,675.0,High School,Married
+CUST00493,Tanya,Reddy,1989-01-05,Male,Patna,Bihar,9144186034,48932.0,Retired,575.0,Post Graduate,Married
+CUST00494,Anika,Singh,1974-03-16,Female,Nashik,Maharashtra,9679677338,103953.0,Salaried,758.0,High School,Single
+CUST00495,Vivaan,Kumar,1987-05-28,Female,Jaipur,Rajasthan,9892952947,43893.0,Business Owner,682.0,Post Graduate,
+CUST00496,Rajesh,Rao,1990-09-26,Male,Bhubaneswar,Odisha,9885593029,54403.0,Self-Employed,496.0,Not Graduate,Married
+CUST00497,Sunita,Patel,1966-02-11,Male,Gurgaon,Haryana,9788604221,43321.0,Business Owner,618.0,Graduate,Divorced
+CUST00498,Saanvi,Sharma,1989-02-25,Male,Pune,Maharashtra,9747650867,29708.0,Business Owner,654.0,Not Graduate,Single
+CUST00499,Meera,Iyer,2003-04-20,Male,Patna,Bihar,9578433629,120432.0,Self-Employed,737.0,,Single
+CUST00500,Shreya,Chopra,1984-11-06,Male,Bhubaneswar,Odisha,9249859658,36842.0,Self-Employed,731.0,Not Graduate,Single
+CUST00501,Aadhya,Rao,2003-12-01,Female,Chennai,Tamil Nadu,9785912716,98683.0,Self-Employed,763.0,Not Graduate,Single
+CUST00502,Sunita,Malhotra,1990-06-23,Female,Patna,Bihar,9145347243,50504.0,Business Owner,621.0,Not Graduate,Single
+CUST00503,Sunil,Pillai,1985-10-16,Female,Patna,Bihar,9607387223,69502.0,Retired,715.0,High School,Divorced
+CUST00504,Diya,Bose,1995-11-09,Female,Jaipur,Rajasthan,9743054662,76695.0,Retired,737.0,Not Graduate,Married
+CUST00505,Anika,Bose,2001-09-15,Male,Patna,Bihar,9256913540,82849.0,Business Owner,631.0,High School,Married
+CUST00506,Ananya,Verma,1981-03-15,Male,Gurgaon,Haryana,9182492018,94721.0,Salaried,697.0,High School,Divorced
+CUST00507,Kavya,Reddy,1979-06-22,Female,Hyderabad,Telangana,9839106580,138362.0,Self-Employed,617.0,High School,Divorced
+CUST00508,Aarav,Iyer,1977-08-16,Male,Hyderabad,Telangana,9640503265,116772.0,Salaried,697.0,Post Graduate,Married
+CUST00509,Pooja,Malhotra,1968-06-05,Female,Jaipur,Rajasthan,9249265120,35393.0,Self-Employed,636.0,High School,Single
+CUST00510,Ira,Sharma,2001-07-16,Female,Patna,Bihar,9239820778,41765.0,Salaried,718.0,Post Graduate,Married
+CUST00511,Arjun,Sharma,1986-09-22,Male,Bhubaneswar,Odisha,9146473159,63666.0,Salaried,628.0,Graduate,Single
+CUST00512,Ayaan,Trivedi,1991-05-12,Female,Delhi,Delhi,9397829845,48427.0,Business Owner,872.0,Graduate,Divorced
+CUST00513,Ananya,Desai,1997-09-06,Male,Bhubaneswar,Odisha,9305672580,116281.0,Salaried,719.0,Graduate,Divorced
+CUST00514,Reyansh,Nair,1987-08-14,Female,Jaipur,Rajasthan,9294184632,49961.0,Retired,690.0,Post Graduate,Married
+CUST00515,Aadhya,Desai,1983-04-14,Female,Delhi,Delhi,9918485133,66619.0,Salaried,587.0,Graduate,Single
+CUST00516,Sai,Kulkarni,1970-03-11,Female,Chennai,Tamil Nadu,9412017904,43101.0,Self-Employed,529.0,Not Graduate,Single
+CUST00517,Arjun,Bose,1981-06-26,Male,Kolkata,West Bengal,9807110812,59850.0,Self-Employed,738.0,Graduate,Divorced
+CUST00518,Meera,Kumar,1991-06-29,Female,Patna,Bihar,9463602964,38499.0,Salaried,821.0,Post Graduate,Married
+CUST00519,Kiara,Chopra,1987-05-23,Female,Patna,Bihar,9529749624,26558.0,Retired,548.0,High School,Divorced
+CUST00520,Anil,Mehta,1999-06-14,Male,Nashik,Maharashtra,9131915385,54842.0,Salaried,774.0,Post Graduate,Married
+CUST00521,Sunil,Sharma,1982-03-02,Female,Nashik,Maharashtra,9907034823,113773.0,Retired,638.0,Graduate,Divorced
+CUST00522,Saanvi,Rao,1987-05-03,Male,Kolkata,West Bengal,9562145358,84064.0,Retired,676.0,Graduate,Married
+CUST00523,Shreya,Kulkarni,1981-11-18,Female,Ahmedabad,Gujarat,9627722211,44967.0,Retired,759.0,High School,Married
+CUST00524,Sunil,Patel,1995-04-13,Female,Kochi,Kerala,9644048929,67925.0,Retired,538.0,Not Graduate,Married
+CUST00525,Lata,Kumar,1995-05-07,Male,Kochi,Kerala,9998651200,102566.0,Business Owner,804.0,Graduate,Married
+CUST00526,Siddharth,Patel,1980-06-25,Male,Bengaluru,Karnataka,9435114318,35854.0,Business Owner,715.0,Post Graduate,Divorced
+CUST00527,Ayaan,Kulkarni,19/11/1965,Female,Nashik,Maharashtra,9386279849,62756.0,Salaried,703.0,Not Graduate,Single
+CUST00528,Rohan,Kumar,1982-07-05,Female,Kochi,Kerala,9971295506,37229.0,Self-Employed,619.0,Post Graduate,Divorced
+CUST00529,Tanya,Rao,1984-07-23,Male,Chandigarh,Punjab,9329866763,48398.0,Business Owner,785.0,Graduate,Divorced
+CUST00530,Geeta,Kumar,1975-02-18,Female,Bhubaneswar,Odisha,9172230370,64331.0,Retired,646.0,Graduate,Single
+CUST00531,Aadhya,Singh,1968-06-10,Female,Bhubaneswar,Odisha,9314831026,72102.0,Retired,423.0,Not Graduate,Single
+CUST00532,Sunita,Reddy,1965-11-01,Female,Jaipur,Rajasthan,9601754527,87062.0,Salaried,523.0,Not Graduate,Divorced
+CUST00533,Deepak,Nair,1985-09-30,Male,Chandigarh,Punjab,9442151243,40895.0,Self-Employed,579.0,High School,Single
+CUST00534,Pooja,Mehta,16/11/1977,Female,Ahmedabad,Gujarat,9306068248,25659.0,Retired,784.0,Not Graduate,Married
+CUST00535,Sunil,Pillai,1983-12-07,Male,Bengaluru,Karnataka,9807242295,38798.0,Retired,711.0,Post Graduate,Single
+CUST00536,Vivaan,Verma,1968-10-07,Female,Ahmedabad,Gujarat,9805910729,47884.0,Self-Employed,722.0,Not Graduate,Divorced
+CUST00537,Myra,Patel,1997-12-12,Female,Kochi,Kerala,9355633079,50940.0,Business Owner,564.0,High School,Married
+CUST00538,Lata,Kumar,1998-07-28,Male,Bhubaneswar,Odisha,9571883135,80670.0,Retired,635.0,Graduate,Single
+CUST00539,Ramesh,Singh,1970-01-25,Female,Patna,Bihar,9489766149,22509.0,Business Owner,641.0,High School,Married
+CUST00540,Vivaan,Trivedi,2002-09-30,Female,Mumbai,Maharashtra,9432074523,103816.0,Salaried,756.0,Post Graduate,Single
+CUST00541,Ramesh,Joshi,1984-11-05,Male,Ahmedabad,Gujarat,9419355409,41178.0,Retired,648.0,High School,Married
+CUST00542,Rohan,Chopra,1966-07-10,Male,Bhubaneswar,Odisha,9457257753,41738.0,Self-Employed,866.0,Not Graduate,Single
+CUST00543,Anika,Desai,1980-10-13,Male,Pune,Maharashtra,9918164904,59335.0,Retired,718.0,High School,Married
+CUST00544,Krishna,Sharma,1973-12-23,Male,Bengaluru,Karnataka,9924212122,82054.0,Retired,701.0,Post Graduate,Divorced
+CUST00545,Rohan,Malhotra,2004-03-08,Male,Chennai,Tamil Nadu,9190622682,43065.0,Retired,662.0,High School,Married
+CUST00546,Siddharth,Menon,1965-12-06,Male,Delhi,Delhi,9312886716,47296.0,Salaried,676.0,Post Graduate,Single
+CUST00547,Meera,Trivedi,1991-12-07,Female,Bengaluru,Karnataka,9664613933,70531.0,Retired,684.0,Graduate,
+CUST00548,Ayaan,Joshi,1974-02-11,Male,Patna,Bihar,9239800466,70708.0,Self-Employed,672.0,High School,Single
+CUST00549,Navya,Nair,1973-02-03,Female,Bengaluru,Karnataka,9366629382,50986.0,Salaried,500.0,High School,Single
+CUST00550,Aarav,Bose,2004-02-03,Male,Nashik,Maharashtra,9741234259,77510.0,Salaried,711.0,Not Graduate,Divorced
+CUST00551,Vihaan,Kulkarni,1975-07-15,Female,Jaipur,Rajasthan,9641747843,80741.0,Retired,419.0,Graduate,
+CUST00552,Varun,Iyer,1990-02-06,Female,Jaipur,Rajasthan,9241647522,139272.0,Self-Employed,667.0,Not Graduate,Single
+CUST00553,Anika,Patel,1966-12-25,Female,Chandigarh,Punjab,9403788949,85313.0,Business Owner,586.0,High School,Single
+CUST00554,Deepak,Kulkarni,1972-05-27,Male,Bengaluru,Karnataka,9783600081,66595.0,Self-Employed,585.0,Post Graduate,Divorced
+CUST00555,Ishaan,Verma,1973-03-20,Female,Delhi,Delhi,9143799764,35886.0,Retired,852.0,Not Graduate,Single
+CUST00556,Sunil,Patel,1997-04-15,Female,Ahmedabad,Gujarat,9905238350,44562.0,Self-Employed,699.0,High School,Married
+CUST00557,Lata,Sharma,1999-05-27,Male,Hyderabad,Telangana,9127876667,75737.0,Retired,724.0,Not Graduate,Single
+CUST00558,Varun,Menon,1969-10-04,Female,Jaipur,Rajasthan,9738021964,52849.0,Salaried,712.0,Not Graduate,Single
+CUST00559,Tanya,Malhotra,1997-10-25,Female,Chandigarh,Punjab,9960666308,163032.0,Salaried,674.0,Post Graduate,Married
+CUST00560,Arjun,Pillai,1982-02-09,Female,Kochi,Kerala,9274956229,54206.0,Business Owner,774.0,Not Graduate,Married
+CUST00561,Ishaan,Patel,1987-01-08,Male,Gurgaon,Haryana,9993409974,85200.0,Retired,786.0,Post Graduate,Married
+CUST00562,Shreya,Kumar,1977-01-16,Male,Chennai,Tamil Nadu,9777194209,67465.0,Business Owner,577.0,High School,Single
+CUST00563,Isha,Joshi,1995-10-14,Female,Kolkata,West Bengal,9185022239,110936.0,Business Owner,576.0,Graduate,Single
+CUST00564,Ishaan,Iyer,1978-06-23,Female,Kolkata,West Bengal,9651274642,57029.0,Retired,612.0,Graduate,Married
+CUST00565,Reyansh,Malhotra,1997-04-24,Female,Kolkata,West Bengal,9222337296,47473.0,Self-Employed,709.0,Graduate,Married
+CUST00566,Diya,Kumar,1968-09-26,Female,Mumbai,Maharashtra,9769811308,57565.0,Self-Employed,717.0,Not Graduate,Single
+CUST00567,Aadhya,Reddy,1998-07-06,Male,Pune,Maharashtra,9524056989,109848.0,Retired,720.0,Not Graduate,Married
+CUST00568,Isha,Kumar,1994-07-04,Female,Ahmedabad,Gujarat,9824885563,43387.0,Salaried,766.0,High School,Divorced
+CUST00569,Krishna,Iyer,1973-07-24,Female,Mumbai,Maharashtra,9255858123,88852.0,Self-Employed,569.0,Graduate,Divorced
+CUST00570,Sai,Rao,1985-10-15,Female,Bhubaneswar,Odisha,9620815076,66085.0,Self-Employed,743.0,Post Graduate,Single
+CUST00571,Saanvi,Rao,2002-03-17,Female,Kochi,Kerala,9563628778,42244.0,Business Owner,803.0,,Divorced
+CUST00572,Aditya,Bose,22/10/1986,Female,Bengaluru,Karnataka,9667267264,45477.0,Salaried,691.0,Not Graduate,Married
+CUST00573,Riya,Chopra,1986-03-27,Male,Jaipur,Rajasthan,9273230463,44957.0,Retired,681.0,Not Graduate,Married
+CUST00574,Nikhil,Malhotra,1987-10-10,Female,Delhi,Delhi,9876309973,28335.0,Business Owner,550.0,Not Graduate,Single
+CUST00575,Rajesh,Reddy,1974-04-18,Female,Kochi,Kerala,9750418046,108798.0,Retired,603.0,Post Graduate,Married
+CUST00576,Ira,Joshi,1989-12-24,Male,Delhi,Delhi,9989003129,29860.0,Salaried,486.0,High School,Married
+CUST00577,Karan,Chopra,1992-09-14,Female,Pune,Maharashtra,9926883089,35614.0,Self-Employed,560.0,High School,Married
+CUST00578,Anil,Trivedi,1969-09-03,Male,Kolkata,West Bengal,9213700517,111413.0,Salaried,770.0,Not Graduate,Married
+CUST00579,Anil,Patel,1993-04-04,Male,Nashik,Maharashtra,9635143260,34749.0,Self-Employed,882.0,High School,Divorced
+CUST00580,Varun,Kulkarni,1971-03-08,Male,Ahmedabad,Gujarat,9466489637,80088.0,Salaried,650.0,Graduate,Single
+CUST00581,Riya,Singh,1998-11-11,Female,Patna,Bihar,9960892562,14048.0,Retired,886.0,Not Graduate,Married
+CUST00582,Deepak,Singh,1984-11-08,Male,Mumbai,Maharashtra,9531269332,,Retired,531.0,Graduate,Single
+CUST00583,Vihaan,Kumar,1966-08-31,Female,Bhubaneswar,Odisha,9957995699,81738.0,Retired,899.0,Graduate,Divorced
+CUST00584,Meera,Pillai,1978-08-27,Female,Ahmedabad,Gujarat,9257691669,97942.0,Self-Employed,730.0,High School,Divorced
+CUST00585,Ramesh,Trivedi,1992-09-24,Female,Bhubaneswar,Odisha,9190495952,65997.0,Retired,756.0,Not Graduate,Single
+CUST00586,Krishna,Desai,26/09/1977,Female,Hyderabad,Telangana,9125148911,71643.0,Self-Employed,705.0,High School,Married
+CUST00587,Ira,Chopra,1969-12-15,Male,Hyderabad,Telangana,9233949085,51642.0,Retired,674.0,High School,Divorced
+CUST00588,Karan,Joshi,1998-06-15,Male,Bhubaneswar,Odisha,9816102443,33624.0,Retired,654.0,Post Graduate,Single
+CUST00589,Deepak,Joshi,1979-09-16,Male,Pune,Maharashtra,9557083443,21026.0,Salaried,671.0,Not Graduate,Divorced
+CUST00590,Vihaan,Chopra,1970-11-01,Female,Jaipur,Rajasthan,9936256672,29902.0,Retired,580.0,Not Graduate,Divorced
+CUST00591,Neha,Malhotra,1986-12-17,Male,Patna,Bihar,9238926282,53634.0,Self-Employed,805.0,Post Graduate,Single
+CUST00592,Isha,Bose,1998-06-27,Female,Mumbai,Maharashtra,9218472553,77587.0,Salaried,538.0,Graduate,Single
+CUST00593,Deepak,Iyer,1981-08-31,Male,Pune,Maharashtra,9941590785,29887.0,Business Owner,764.0,Graduate,Married
+CUST00594,Navya,Nair,2001-09-29,Female,Nashik,Maharashtra,9616659256,,Business Owner,659.0,Graduate,Single
+CUST00595,Siddharth,Bose,1997-04-20,Female,Ahmedabad,Gujarat,9582190328,64539.0,Salaried,592.0,Not Graduate,Divorced
+CUST00596,Tanya,Trivedi,1982-05-16,Male,Bengaluru,Karnataka,9195058246,51672.0,Business Owner,559.0,Not Graduate,Divorced
+CUST00597,Sunita,Patel,1990-02-03,Male,Kolkata,West Bengal,9303362264,36290.0,Salaried,708.0,Graduate,Divorced
+CUST00598,Ramesh,Reddy,1977-05-02,Male,Mumbai,Maharashtra,9751605405,22103.0,Retired,719.0,Not Graduate,Divorced
+CUST00599,Vivaan,Kulkarni,1973-02-05,Male,Bengaluru,Karnataka,9681731069,48541.0,Self-Employed,729.0,High School,Married
+CUST00600,Anika,Gupta,1978-10-06,Male,Nashik,Maharashtra,9162815808,54828.0,Business Owner,802.0,High School,Divorced
+CUST00447,Ramesh,Sharma,1985-05-14,Female,Chennai,Tamil Nadu,9410535202,83561.0,Business Owner,785.0,Not Graduate,Single
+CUST00405,Aarav,Mehta,1974-12-26,Female,Bengaluru,Karnataka,9762562441,91846.0,Retired,599.0,Graduate,Single
+CUST00510,Ira,Sharma,2001-07-16,Female,Patna,Bihar,9239820778,41765.0,Salaried,718.0,Post Graduate,Married
